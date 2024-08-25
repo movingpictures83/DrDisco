@@ -1,0 +1,2 @@
+Prefix plugins/DrDisco/example/
+Plugin DrDisco inputfile input.bed outputfile output.bed
